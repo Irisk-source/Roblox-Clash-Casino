@@ -33,10 +33,7 @@ Roblox Clash Casino provides a seamless and engaging platform for players to enj
    npm install
    ```
 
-4. **Configure Environment Variables**:
-   - Rename `.env.example` to `.env` and update the variables as needed.
-
-5. **Start the Application**:
+4. **Start the Application**:
    ```bash
    npm start
    ```
