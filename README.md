@@ -16,6 +16,9 @@ Roblox Clash Casino provides a seamless and engaging platform for players to enj
 
 - **Fair Play**: Implements fair gaming practices to provide an equitable experience for all players.
 
+Live Demo
+Experience the full potential of our casino site template by checking out the live demo: [https://roblox-clash-casino.vercel.app/](https://roblox-clash-casino.vercel.app/).
+
 ## Installation
 
 1. **Clone the Repository**:
